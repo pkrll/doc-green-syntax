@@ -1,6 +1,6 @@
-# doc-green-syntax theme
+# Doc Green
 
-A syntax theme that goes with the Doc Green UI theme.
+Companion syntax theme for the Doc Green UI.
 
 ### Screenshot
 
