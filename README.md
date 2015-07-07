@@ -1,6 +1,10 @@
-# Doc Green
+# Doc Green Syntax
 
-Companion syntax theme for the Doc Green UI.
+Companion syntax theme for the [Doc Green UI Theme](https://atom.io/themes/doc-green-ui).
+
+## Install
+
+Open Atom Preferences, select Install > Themes and search for "doc-green", then click install. Activate it then by selecting it in the Themes section.
 
 ### Screenshot
 
